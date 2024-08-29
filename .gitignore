@@ -1,0 +1,6 @@
+.exercism
+
+**/*.tst
+**/*.cmp
+**/*.out
+**/*.hack
